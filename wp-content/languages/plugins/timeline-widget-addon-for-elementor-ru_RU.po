@@ -1,0 +1,459 @@
+# Translation of Plugins - Timeline Widget For Elementor (Elementor Timeline, Vertical &amp; Horizontal Timeline) - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Timeline Widget For Elementor (Elementor Timeline, Vertical &amp; Horizontal Timeline) - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-05-01 14:21:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.8\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Timeline Widget For Elementor (Elementor Timeline, Vertical &amp; Horizontal Timeline) - Development (trunk)\n"
+
+#: widgets/twae-widget.php:1361
+msgid "Label Typography"
+msgstr "Типографика этикетки"
+
+#: widgets/twae-widget.php:1413
+msgid "Sub Label Typography"
+msgstr "Типографика подэтикетки"
+
+#: widgets/twae-widget.php:787
+msgid "Colors"
+msgstr "Цвета"
+
+#: widgets/twae-widget.php:589 widgets/twae-widget.php:710
+msgid "Image"
+msgstr "Изображение"
+
+#: widgets/twae-widget.php:121 widgets/twae-widget.php:147
+msgid "Left"
+msgstr "Слева"
+
+#: widgets/twae-widget.php:129 widgets/twae-widget.php:155
+msgid "Right"
+msgstr "Справа"
+
+#: widgets/twae-widget.php:125 widgets/twae-widget.php:151
+msgid "Center"
+msgstr "По центру"
+
+#. translators: 1: Plugin name 2: PHP 3: Required PHP version
+#: includes/class-twae-free-main.php:118
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "\"%1$s\" требует \"%2$s\" версию %3$s или выше."
+
+#: includes/class-twae-free-main.php:120
+msgid "PHP"
+msgstr "PHP"
+
+#: widgets/twae-widget.php:706
+msgid "Text"
+msgstr "Текст"
+
+#: widgets/twae-widget.php:1033
+msgid "Padding"
+msgstr "Внутренний отступ"
+
+#: widgets/twae-widget.php:947 widgets/twae-widget.php:999
+#: widgets/twae-widget.php:1047
+msgid "Bottom Spacing"
+msgstr "Нижний зазор"
+
+#: widgets/twae-widget.php:1084
+msgid "Normal"
+msgstr "Обычный"
+
+#: widgets/twae-widget.php:1160
+msgid "Hover"
+msgstr "Наведение"
+
+#: widgets/twae-widget.php:1190
+msgid "Border Color"
+msgstr "Цвет рамки"
+
+#: widgets/twae-widget.php:1202
+msgid "Border Width"
+msgstr "Ширина рамки"
+
+#: widgets/twae-widget.php:218
+msgid "1 Slide"
+msgstr "1 слайд"
+
+#: widgets/twae-widget.php:219
+msgid "2 Slides"
+msgstr "2 слайда"
+
+#: widgets/twae-widget.php:220
+msgid "3 Slides"
+msgstr "3 слайда"
+
+#: widgets/twae-widget.php:221
+msgid "4 Slides"
+msgstr "4 слайда"
+
+#: widgets/twae-widget.php:222
+msgid "5 Slides"
+msgstr "5 слайдов"
+
+#: widgets/twae-widget.php:223
+msgid "6 Slides"
+msgstr "6 слайдов"
+
+#: widgets/twae-widget.php:117
+msgid "Content Alignment"
+msgstr "Выравнивание содержимого"
+
+#: widgets/twae-widget.php:697
+msgid "Icon Type"
+msgstr "Тип значка"
+
+#: widgets/twae-widget.php:690
+msgid "Advanced"
+msgstr "Расширенные"
+
+#: widgets/twae-widget.php:1348
+msgid "Label Color"
+msgstr "Цвет этикетки"
+
+#: widgets/twae-widget.php:593
+msgid "Video"
+msgstr "Видео"
+
+#: widgets/twae-widget.php:1371
+msgid "Label Size"
+msgstr "Размер этикетки"
+
+#: widgets/twae-widget.php:1091
+msgid "Background Type"
+msgstr "Тип фона"
+
+#: widgets/twae-widget.php:1096
+msgid "Simple"
+msgstr "Простой"
+
+#: widgets/twae-widget.php:1100
+msgid "Gradient"
+msgstr "Градиент"
+
+#. Plugin Name of the plugin
+msgid "Timeline Widget For Elementor"
+msgstr "Timeline Widget For Elementor"
+
+#: widgets/twae-widget.php:843
+msgid "2008"
+msgstr "2008"
+
+#: widgets/twae-widget.php:584
+msgid "Choose Media"
+msgstr "Выбрать медиафайл"
+
+#: widgets/twae-widget.php:912
+msgid "🔶 Title"
+msgstr "🔶 Заголовок"
+
+#: widgets/twae-widget.php:832
+msgid "February 2"
+msgstr "2 февраля"
+
+#: widgets/twae-widget.php:726
+msgid "FontAwesome Icon"
+msgstr "Значки Font Awesome"
+
+#: widgets/twae-widget.php:1257
+msgid "Icon / Text Color"
+msgstr "Цвет значка / текста"
+
+#: widgets/twae-widget.php:844
+msgid "January 31"
+msgstr "31 января"
+
+#: widgets/twae-widget.php:820
+msgid "July 5"
+msgstr "5 июля"
+
+#: widgets/twae-widget.php:252
+msgid "Slides Height"
+msgstr "Высота слайдов"
+
+#: widgets/twae-widget.php:597
+msgid "Slideshow"
+msgstr "Слайд-шоу"
+
+#: widgets/twae-widget.php:904
+msgid "#️⃣ Title / Desc "
+msgstr "Заголовок / Описание "
+
+#: widgets/twae-widget.php:555
+msgid "Label / Date"
+msgstr "Этикетка / Дата"
+
+#: widgets/twae-widget.php:1104
+msgid "Multi Color"
+msgstr "Многоцветный"
+
+#: widgets/twae-widget.php:1400
+msgid "Sub Label Color"
+msgstr "Цвет подэтикетки"
+
+#: widgets/twae-widget.php:1423
+msgid "Sub Label Size"
+msgstr "Размер подэтикетки"
+
+#: widgets/twae-widget.php:841
+msgid "Amazon acquires Audible"
+msgstr "Amazon приобретает Audible"
+
+#: widgets/twae-widget.php:829
+msgid "Amazon Prime debuts"
+msgstr "Дебют Amazon Prime"
+
+#. Description of the plugin
+msgid "Best timeline widget for Elementor page builder to showcase your personal or business stories in beautiful vertical or horizontal timeline layouts. <strong>[Elementor Addon]</strong>"
+msgstr "Лучший виджет временной шкалы для конструктора страниц Elementor, чтобы продемонстрировать ваши личные или деловые истории в красивых вертикальных или горизонтальных макетах временной шкалы. <strong>[Дополнение Elementor]</strong>"
+
+#: widgets/twae-widget.php:143
+msgid "Content Alignment (Left)"
+msgstr "Выравнивание содержимого (слева)"
+
+#: widgets/twae-widget.php:714
+msgid "Dot"
+msgstr "Точка"
+
+#: widgets/twae-widget.php:1306
+msgid "🅱 Button (Read More) - PRO"
+msgstr "🅱 Кнопка (Читать далее) - PRO"
+
+#: widgets/twae-widget.php:867
+msgid "📍 Line Settings"
+msgstr "📍 Настройки линии"
+
+#: widgets/twae-widget.php:1331
+msgid "📢 Labels / Date / Year Box"
+msgstr "📢 Этикетки / Дата / Год"
+
+#: widgets/twae-widget.php:1286
+msgid "📺 Image / Media - PRO"
+msgstr "📺 Изображение / Медиа - PRO"
+
+#: widgets/twae-widget.php:821
+msgid "Introduced"
+msgstr "Представлено"
+
+#: widgets/twae-widget.php:965
+msgid "🔶 Description"
+msgstr "🔶 Описание"
+
+#: widgets/twae-widget.php:833 widgets/twae-widget.php:845
+msgid "Expanded"
+msgstr "Расширенный"
+
+#: widgets/twae-widget.php:175
+msgid "Icon / Labels Position"
+msgstr "Положение значка/этикетки"
+
+#: widgets/twae-widget.php:1246
+msgid "Icon / Dot Background"
+msgstr "Фон значка/точки"
+
+#: widgets/twae-widget.php:630
+msgid "Image Size will not work with dummy image."
+msgstr "Размер изображения не будет работать с фиктивным изображением."
+
+#: includes/class-twae-free-main.php:119
+msgid "Timeline Widget Pro For Elementor"
+msgstr "Timeline Widget Pro For Elementor"
+
+#: includes/class-twae-free-main.php:76
+msgid "Timeline Widgets"
+msgstr "Виджеты временной шкалы"
+
+#: widgets/twae-widget.php:521 widgets/twae-widget.php:812
+msgid "Content"
+msgstr "Содержимое"
+
+#: widgets/twae-widget.php:530
+msgid "Show"
+msgstr "Показать"
+
+#: widgets/twae-widget.php:531
+msgid "Hide"
+msgstr "Скрыть"
+
+#: widgets/twae-widget.php:921 widgets/twae-widget.php:974
+#: widgets/twae-widget.php:1461
+msgid "Color"
+msgstr "Цвет"
+
+#: widgets/twae-widget.php:573
+msgid "Title"
+msgstr "Заголовок"
+
+#: widgets/twae-widget.php:677
+msgid "Description"
+msgstr "Описание"
+
+#: widgets/twae-widget.php:702
+msgid "Icon"
+msgstr "Значок"
+
+#: widgets/twae-widget.php:1115 widgets/twae-widget.php:1474
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: widgets/twae-widget.php:935 widgets/twae-widget.php:988
+#: widgets/twae-widget.php:1486
+msgid "Typography"
+msgstr "Типографика"
+
+#: widgets/twae-widget.php:103
+msgid "Layout"
+msgstr "Макет"
+
+#: widgets/twae-widget.php:234
+msgid "Autoplay"
+msgstr "Автовоспроизведение"
+
+#: widgets/twae-widget.php:609
+msgid "Choose Image"
+msgstr "Выбрать изображение"
+
+#. Author URI of the plugin
+msgid "https://coolplugins.net/"
+msgstr "https://coolplugins.net/"
+
+#: admin/admin-notices.php:226 admin/twae-feedback-notice.php:127
+msgid "I already rated it"
+msgstr "Я уже оценил его"
+
+#: admin/admin-notices.php:227 admin/twae-feedback-notice.php:128
+msgid "Not Interested"
+msgstr "Не интересует"
+
+#: admin/feedback/twae-admin-feedback-form.php:74
+#: admin/feedback/twae-admin-feedback-form.php:148
+msgid "The plugin didn't work as expected"
+msgstr "Плагин не работает, как ожидалось"
+
+#: admin/feedback/twae-admin-feedback-form.php:78
+#: admin/feedback/twae-admin-feedback-form.php:152
+msgid "I found a better plugin"
+msgstr "Я нашел плагин лучше"
+
+#: admin/feedback/twae-admin-feedback-form.php:79
+#: admin/feedback/twae-admin-feedback-form.php:153
+msgid "Please share which plugin"
+msgstr "Пожалуйста, поделитесь какой плагин"
+
+#: admin/feedback/twae-admin-feedback-form.php:82
+#: admin/feedback/twae-admin-feedback-form.php:156
+msgid "The plugin is not working"
+msgstr "Плагин не работает"
+
+#: admin/feedback/twae-admin-feedback-form.php:86
+#: admin/feedback/twae-admin-feedback-form.php:160
+msgid "It's a temporary deactivation"
+msgstr "Это временная деактивация"
+
+#: admin/feedback/twae-admin-feedback-form.php:90
+#: admin/feedback/twae-admin-feedback-form.php:164
+msgid "Other"
+msgstr "Другое"
+
+#: admin/feedback/twae-admin-feedback-form.php:91
+#: admin/feedback/twae-admin-feedback-form.php:165
+msgid "Please share the reason"
+msgstr "Пожалуйста, поделитесь причиной"
+
+#: admin/feedback/twae-admin-feedback-form.php:100
+msgid "Quick Feedback"
+msgstr "Быстрый отзыв"
+
+#: admin/feedback/twae-admin-feedback-form.php:113
+msgid "If you have a moment, please share why you are deactivating this plugin."
+msgstr "Если у вас есть минутка, расскажите, почему вы отключаете этот плагин."
+
+#: widgets/twae-widget.php:95
+msgid "Layout Settings"
+msgstr "Настройки макета"
+
+#: widgets/twae-widget.php:214
+msgid "Slides To Show"
+msgstr "Слайды для показа"
+
+#: widgets/twae-widget.php:506
+msgid "Timeline Stories"
+msgstr "Хронология истории"
+
+#: widgets/twae-widget.php:819
+msgid "1994"
+msgstr "1994"
+
+#. Plugin URI of the plugin
+msgid "https://coolplugins.net"
+msgstr "https://coolplugins.net"
+
+#: widgets/twae-widget.php:831
+msgid "2005"
+msgstr "2005"
+
+#: admin/twae-feedback-notice.php:60
+msgid "<style>"
+msgstr "<style>"
+
+#: widgets/twae-widget.php:875
+msgid "Line Color"
+msgstr "Цвет линии"
+
+#: includes/class-twae.php:60
+msgid "Post Timeline"
+msgstr "Хронология записи"
+
+#: admin/twae-feedback-notice.php:129
+msgid "No, not good enough, i do not like to rate it!"
+msgstr "Нет, недостаточно хорошо, я не люблю оценивать это!"
+
+#: widgets/twae-widget.php:78
+msgid "Story Timeline"
+msgstr "Хронология истории"
+
+#: widgets/twae-widget.php:564
+msgid "Sub Label"
+msgstr "Подэтикетка"
+
+#: widgets/twae-widget.php:830
+msgid "Aliter homines, aliter philosophos loqui putas oportere? Sin aliud quid voles, postea. Mihi enim satis est, ipsis non satis. Negat enim summo bono afferre incrementum diem. Quod ea non occurrentia fingunt, vincunt Aristonem."
+msgstr "Вы думаете, что люди и философы должны говорить по-разному? Если вы хотите что-нибудь еще, позже. Мне этого достаточно, а им мало. Ибо он говорит, что высшее благо принесет день умножения. Делая вид, что их не бывает, они побеждают Аристон."
+
+#. Author of the plugin
+msgid "Cool Plugins"
+msgstr "Cool Plugins"
+
+#: admin/feedback/twae-admin-feedback-form.php:127
+msgid "I consent to having Cool Plugins store my all submitted information via this form, they can also respond to my inquiry."
+msgstr "Я даю согласие на то, чтобы Cool Plugins хранили всю предоставленную мной информацию через эту форму, они также могут ответить на мой запрос."
+
+#: widgets/twae-widget.php:611
+msgid "Image Size will not work with default image"
+msgstr "Размер изображения не будет работать с изображением по умолчанию"
+
+#: timeline-widget-addon-for-elementor.php:122
+msgid "<a href=\"%s\"  target=\"_blank\" >Elementor Page Builder</a>  must be installed and activated for \"<strong>Timeline Widget Addon For Elementor</strong>\" to work"
+msgstr "<a href=\"%s\" target=\"_blank\" >Конструктор страниц Elementor</a> должен быть установлен и активирован, чтобы «<strong>Timeline Widget Addon For Elementor</strong>» работало"
+
+#: widgets/twae-widget.php:842
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+msgstr "Lorem ipsum: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+
+#: widgets/twae-widget.php:818
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?"
+msgstr "Lorem ipsum: dolor sit amet, consectetur adipiscing elit. Erat enim res aperta. Ne discipulum abducam, times. Primum quid tu dicis breve? An haec ab eo non dicuntur?"
+
+#: widgets/twae-widget.php:253
+msgid "Make all slides the same height based on the tallest slide"
+msgstr "Сделайте все слайды одинаковой высоты на основе самого высокого слайда"
+
+#: includes/class-twae.php:9
+msgid "Timeline Widget Addon For Elementor"
+msgstr "Timeline Widget Addon For Elementor"

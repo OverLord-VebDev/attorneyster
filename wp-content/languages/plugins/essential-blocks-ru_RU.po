@@ -1,0 +1,643 @@
+# Translation of Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-10-01 18:40:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.9\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Essential Blocks – Page Builder Gutenberg Blocks, Patterns &amp; Templates - Stable (latest release)\n"
+
+#: includes/blocks-default.php:236 dist/index.js:1
+msgid "Openverse"
+msgstr "Openverse"
+
+#: blocks/openverse/block.json
+msgctxt "block title"
+msgid "Openverse"
+msgstr "Openverse"
+
+#: includes/blocks-default.php:136
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: blocks/social-share/block.json
+msgctxt "block title"
+msgid "Social Share"
+msgstr "Поделиться в соцсетях"
+
+#: blocks/social-share/block.json
+msgctxt "block description"
+msgid "Share your posts & pages instantly on popular social platforms in one click from your website."
+msgstr "Мгновенно делитесь своими записями и страницами на популярных социальных платформах в один клик с вашего сайта."
+
+#: blocks/openverse/block.json
+msgctxt "block description"
+msgid "Easily search & use royalty free images, stock photos, CC-licensed images from Openverse for your website"
+msgstr "Удобный поиск и использование бесплатных изображений, стоковых фотографий и изображений с лицензией CC от Openverse для вашего веб-сайта"
+
+#: includes/class-nft-ajax.php:79 includes/class-nft-ajax.php:148
+#: includes/class-nft-ajax.php:164 includes/class-openverse-ajax.php:64
+#: includes/class-openverse-ajax.php:112 includes/class-openverse-ajax.php:192
+#: includes/class-openverse-ajax.php:242
+msgid "Nonce did not match"
+msgstr "Nonce не совпадает"
+
+#: blocks/nft-gallery/block.json
+msgctxt "block description"
+msgid "Display your NFT items & collections in a stunning gallery view without any coding"
+msgstr "Отображение ваших элементов и коллекций NFT в потрясающем виде галереи без какого-либо кодирования"
+
+#: includes/blocks-default.php:241 dist/index.js:1
+msgid "NFT Gallery"
+msgstr "Галерея NFT"
+
+#: blocks/nft-gallery/block.json
+msgctxt "block title"
+msgid "NFT Gallery"
+msgstr "Галерея NFT"
+
+#: includes/blocks-default.php:231
+msgid "Popup"
+msgstr "Всплывающее окно"
+
+#: blocks/popup/block.json
+msgctxt "block title"
+msgid "Popup"
+msgstr "Всплывающее окно"
+
+#: blocks/advanced-navigation/block.json
+msgctxt "block description"
+msgid "Display pages & posts with easy navigation in your website with stunning & organised appearance."
+msgstr "Отображение страниц и записей с удобной навигацией на вашем сайте с потрясающим и организованным внешним видом."
+
+#: blocks/popup/block.json
+msgctxt "block description"
+msgid "Showcase your videos, images or other content with popup & trigger actions."
+msgstr "Демонстрируйте видео, изображения или другое содержимое с помощью всплывающих окон и триггерных действий."
+
+#: includes/blocks-default.php:201 dist/index.js:1
+msgid "Advanced Navigation"
+msgstr "Расширенная навигация"
+
+#: blocks/advanced-navigation/block.json
+msgctxt "block title"
+msgid "Advanced Navigation"
+msgstr "Расширенная навигация"
+
+#: blocks/column/block.json
+msgctxt "block description"
+msgid "A single column within a Row block."
+msgstr "Один столбец в блоке Строка."
+
+#: includes/blocks-default.php:221
+msgid "Post Carousel"
+msgstr "Карусель записей"
+
+#: blocks/post-carousel/block.json
+msgctxt "block title"
+msgid "Post Carousel"
+msgstr "Карусель записей"
+
+#: blocks/post-carousel/block.json
+msgctxt "block description"
+msgid "Showcase your posts & blogs in a stylish way on your website and make it more engaging"
+msgstr "Стильная демонстрация ваших записей и блогов на вашем сайте и повышение его привлекательности"
+
+#: includes/blocks-default.php:206
+msgid "Woo Product Grid"
+msgstr "Сетка товаров WooCommerce"
+
+#: blocks/advanced-video/block.json
+msgctxt "block description"
+msgid "Portray any attractive video content on your website and grow engagement"
+msgstr "Представьте любой привлекательный видеоконтент на своем сайте и повысьте вовлеченность"
+
+#: includes/blocks-default.php:226 dist/index.js:1
+msgid "Advanced Video"
+msgstr "Расширенное видео"
+
+#: blocks/advanced-video/block.json
+msgctxt "block title"
+msgid "Advanced Video"
+msgstr "Расширенное видео"
+
+#: blocks/woo-product-grid.php:109
+msgid "View More"
+msgstr "Смотреть больше"
+
+#: includes/class-essential-blocks-patterns.php:56
+msgid "Essential blocks"
+msgstr "Существенные блоки"
+
+#: blocks/woo-product-grid/block.json
+msgctxt "block title"
+msgid "Woo Product Grid"
+msgstr "Сетка товаров WooCommerce"
+
+#: blocks/woo-product-grid.php:205 dist/index.js:1
+msgid "No product found"
+msgstr "Товары не найдены"
+
+#: blocks/woo-product-grid/block.json
+msgctxt "block description"
+msgid "Display WooCommerce products in a stunning, organized layout & help customers with EB Woo Product Grid."
+msgstr "Отобразите товары WooCommerce в потрясающем, организованном макете и помогите клиентам с помощью EB Woo Product Grid."
+
+#: includes/class-helpers.php:78
+msgid "Select a WPForm"
+msgstr "Выбрать WPForm"
+
+#: includes/class-helpers.php:85
+msgid "Create a Form First"
+msgstr "Сначала создайте форму"
+
+#: blocks/wpforms/block.json
+msgctxt "block title"
+msgid "WPForms"
+msgstr "WPForms"
+
+#: blocks/advanced-image/block.json
+msgctxt "block description"
+msgid "Customise images in Gutenberg to fit your exact needs."
+msgstr "Настраивайте изображения в Gutenberg в соответствии с вашими потребностями."
+
+#: blocks/wpforms/block.json
+msgctxt "block description"
+msgid "Design stunning WPForms in minutes with plenty of controls & styling options"
+msgstr "Создавайте потрясающие WPForms за считанные минуты с помощью множества элементов управления и вариантов оформления"
+
+#: blocks/advanced-image/block.json
+msgctxt "block title"
+msgid "Advanced Image"
+msgstr "Расширенное изображение"
+
+#: includes/blocks-default.php:216 dist/index.js:1
+msgid "WPForms"
+msgstr "WPForms"
+
+#: includes/blocks-default.php:211 dist/index.js:1
+msgid "Advanced Image"
+msgstr "Расширенное изображение"
+
+#: blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr "Кнопка"
+
+#: blocks/advanced-tabs/block.json
+msgctxt "block title"
+msgid "Advanced Tabs"
+msgstr "Расширенные вкладки"
+
+#: blocks/fluent-forms/block.json
+msgctxt "block title"
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: blocks/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr "Вкладка"
+
+#: includes/class-helpers.php:38
+msgid "Select a form"
+msgstr "Выбрать форму"
+
+#: includes/blocks-default.php:191
+msgid "Fluent Forms"
+msgstr "Fluent Forms"
+
+#: includes/blocks-default.php:196 dist/index.js:1
+msgid "Advanced Tabs"
+msgstr "Расширенные вкладки"
+
+#: blocks/post-grid.php:180
+msgid "<"
+msgstr "<"
+
+#: blocks/post-grid.php:197
+msgid ">"
+msgstr ">"
+
+#: blocks/fluent-forms/block.json
+msgctxt "block description"
+msgid "Design your Forms container, fields and choose preferred form layout to style Fluent Forms"
+msgstr "Создайте контейнер формы, поля и выберите предпочтительный макет формы в стиле Fluent Forms"
+
+#: blocks/advanced-tabs/block.json
+msgctxt "block description"
+msgid "Display nested tabs to display key information on an instance in an interactive manner."
+msgstr "Отображение вложенных вкладок для интерактивного отображения ключевой информации об экземпляре."
+
+#: blocks/feature-list/block.json
+msgctxt "block title"
+msgid "Feature List"
+msgstr "Список особенностей"
+
+#: blocks/row/block.json
+msgctxt "block title"
+msgid "Row"
+msgstr "Строка"
+
+#: blocks/countdown/block.json
+msgctxt "block description"
+msgid "Highlight upcoming events with countdown timer"
+msgstr "Выделение предстоящих мероприятий с таймером обратного отсчета"
+
+#: blocks/dual-button/block.json
+msgctxt "block description"
+msgid "Create two buttons to be stacked together"
+msgstr "Создайте две кнопки, которые будут складываться вместе"
+
+#: blocks/post-grid/block.json
+msgctxt "block title"
+msgid "Post Grid"
+msgstr "Сетка записи"
+
+#: blocks/wrapper/block.json
+msgctxt "block title"
+msgid "Wrapper"
+msgstr "Обёртка"
+
+#: blocks/social/block.json
+msgctxt "block description"
+msgid "Add icon links to your social media profiles and grow your audience with animated social icons"
+msgstr "Добавьте ссылки на значки в свои профили в социальных сетях и расширьте свою аудиторию с помощью анимированных значков социальных сетей"
+
+#: blocks/infobox/block.json
+msgctxt "block description"
+msgid "Deliver your content beautifully to grab attention with an animated Infobox block."
+msgstr "Подайте свой контент красиво и привлеките внимание с помощью анимированного блока \"Инфобокс\"."
+
+#: blocks/flipbox/block.json
+msgctxt "block description"
+msgid "Deliver your content beautifully to grab site visitor's attention."
+msgstr "Подавайте контент красиво, чтобы привлечь внимание посетителей сайта."
+
+#: blocks/slider/block.json
+msgctxt "block description"
+msgid "Display multiple images and content in beautiful slider & reduce page scroll"
+msgstr "Отображение нескольких изображений и контента в красивом слайдере и уменьшение прокрутки страницы"
+
+#: blocks/feature-list/block.json
+msgctxt "block description"
+msgid "Make your website interactive with feature list."
+msgstr "Сделайте свой веб-сайт интерактивным с помощью списка функций."
+
+#: blocks/image-gallery/block.json
+msgctxt "block description"
+msgid "Impress your audience with high-resolution images"
+msgstr "Произведите впечатление на свою аудиторию изображениями с высоким разрешением"
+
+#: blocks/table-of-contents/block.json
+msgctxt "block title"
+msgid "Table Of Contents"
+msgstr "Таблица с содержимым"
+
+#: blocks/table-of-contents/block.json
+msgctxt "block description"
+msgid "Insert Table of Contents on your posts/pages and enhance user experience on your WordPress website"
+msgstr "Вставьте таблицу содержания в ваши посты/страницы и улучшите пользовательский опыт на вашем сайте WordPress"
+
+#: blocks/notice/block.json
+msgctxt "block description"
+msgid "Put spotlight on news, announcements & let the visitors find it easily"
+msgstr "Привлекайте внимание к новостям, объявлениям и позволяйте посетителям легко их находить"
+
+#: blocks/number-counter/block.json
+msgctxt "block description"
+msgid "Put spotlight in important data using Counter block for Gutenberg. Customize the designs by adding proper Animation effects with flexibility and many more!"
+msgstr "Привлекайте внимание к важным данным, используя блок Counter для Gutenberg. Настройте дизайн, добавив правильные анимационные эффекты с гибкостью и многое другое!"
+
+#: blocks/instagram-feed/block.json
+msgctxt "block description"
+msgid "Showcase instagram posts for your web visitors."
+msgstr "Показывайте посты в Instagram своим посетителям."
+
+#: blocks/wrapper/block.json
+msgctxt "block description"
+msgid "This is a wrapper block for other blocks within it."
+msgstr "Это блок-оболочка для других блоков внутри него."
+
+#: blocks/advanced-heading/block.json
+msgctxt "block description"
+msgid "Create advanced heading with title, subtitle and separator controls"
+msgstr "Создайте расширенный заголовок с элементами управления заголовком, подзаголовком и разделителем"
+
+#: blocks/button/block.json
+msgctxt "block description"
+msgid "Create a stunning button through the button block. You can make it look outstanding by adding exclusive button styles & effects and add links to redirect your visitors to a specific page."
+msgstr "Создайте потрясающую кнопку с помощью блока кнопок. Вы можете сделать его выдающимся, добавив эксклюзивные стили и эффекты кнопок и добавив ссылки для перенаправления посетителей на определенную страницу."
+
+#: blocks/image-comparison/block.json
+msgctxt "block description"
+msgid "Let the visitors compare images & make your website interactive."
+msgstr "Позвольте посетителям сравнивать изображения и сделайте ваш сайт интерактивным."
+
+#: blocks/post-grid/block.json
+msgctxt "block description"
+msgid "Create a stunning and interactive visualization for your blogs in a grid layout"
+msgstr "Создайте потрясающую интерактивную визуализацию для своих блогов в виде сетки"
+
+#: blocks/row/block.json
+msgctxt "block description"
+msgid "Create complex Row layouts with plenty of styling controls & responsive options"
+msgstr "Создавайте сложные макеты строк с множеством элементов управления стилем и адаптивными параметрами"
+
+#: blocks/team-member/block.json
+msgctxt "block description"
+msgid "Present your team members beautifully & gain instant credibility"
+msgstr "Красиво представьте членов вашей команды и мгновенно завоюйте доверие"
+
+#: blocks/testimonial/block.json
+msgctxt "block description"
+msgid "Display testimonials & gain instant credibility"
+msgstr "Показывайте отзывы и мгновенно завоевывайте доверие"
+
+#: blocks/toggle-content/block.json
+msgctxt "block description"
+msgid "Toggle Contents or blocks with a beautiful switcher."
+msgstr "Переключайте содержимое или блоки с помощью красивого переключателя."
+
+#: blocks/column/block.json
+msgctxt "block title"
+msgid "Column"
+msgstr "Столбец"
+
+#: blocks/parallax-slider/block.json
+msgctxt "block description"
+msgid "Create a captivating visual experience & impress your audience"
+msgstr "Создайте захватывающий визуальный опыт и произведите впечатление на свою аудиторию"
+
+#: blocks/interactive-promo/block.json
+msgctxt "block description"
+msgid "EB Interactive Promo lets you decorate your website outlook with its amazing Promo effects"
+msgstr "EB Interactive Promo (Интерактивное промо) позволяет настроить внешний вид вашего веб-сайта с помощью потрясающих рекламных эффектов"
+
+#: includes/blocks-default.php:176
+msgid "Feature List"
+msgstr "Список функций"
+
+#: includes/blocks-default.php:186 dist/index.js:1
+msgid "Table Of Contents"
+msgstr "Таблица с содержимым"
+
+#: includes/blocks-default.php:181
+msgid "Row"
+msgstr "Строка"
+
+#: includes/blocks-default.php:131 dist/index.js:1
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: includes/blocks-default.php:171
+msgid "Post Grid"
+msgstr "Сетка записей"
+
+#: blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: blocks/social/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr "Значки соцсетей"
+
+#: blocks/call-to-action/block.json
+msgctxt "block description"
+msgid "Call to action lets you create an interactive CTA for the website to draw visitor's attention on the spot."
+msgstr "Призыв к действию позволяет создать интерактивный призыв для сайта, чтобы привлечь внимание посетителя на месте."
+
+#: includes/blocks-default.php:76 dist/index.js:1
+msgid "Advanced Heading"
+msgstr "Дополнительный заголовок"
+
+#: blocks/advanced-heading/block.json
+msgctxt "block title"
+msgid "Advanced Heading"
+msgstr "Дополнительный заголовок"
+
+#: blocks/progress-bar/block.json
+msgctxt "block description"
+msgid "Make your website interactive with stunning progress bars."
+msgstr "Сделайте свой сайт интерактивным с помощью потрясающих индикаторов прогресса."
+
+#: blocks/pricing-table/block.json
+msgctxt "block description"
+msgid "The pricing table block will let you create an effective product pricing table with perfect styling to get more sales from your prospective buyers."
+msgstr "Блок \"Таблица цен\" позволит вам создать эффективную таблицу цен на товары с идеальным оформлением, чтобы получить больше продаж от ваших потенциальных покупателей."
+
+#: blocks/accordion-item/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr "Элемент аккордеона"
+
+#: blocks/call-to-action/block.json
+msgctxt "block title"
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: blocks/countdown/block.json
+msgctxt "block title"
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: blocks/flipbox/block.json
+msgctxt "block title"
+msgid "Flipbox"
+msgstr "Флип-Бокс"
+
+#: blocks/image-comparison/block.json
+msgctxt "block title"
+msgid "Image Comparison"
+msgstr "Сравнение изображений"
+
+#: blocks/infobox/block.json
+msgctxt "block title"
+msgid "Infobox"
+msgstr "Инфоблок"
+
+#: blocks/instagram-feed/block.json
+msgctxt "block title"
+msgid "Instagram Feed"
+msgstr "Instagram Feed"
+
+#: blocks/notice/block.json
+msgctxt "block title"
+msgid "Notice"
+msgstr "Внимание"
+
+#: blocks/pricing-table/block.json
+msgctxt "block title"
+msgid "Pricing Table"
+msgstr "Таблица цен"
+
+#: blocks/slider/block.json
+msgctxt "block title"
+msgid "Slider"
+msgstr "Слайдер"
+
+#: blocks/team-member/block.json
+msgctxt "block title"
+msgid "Team Members"
+msgstr "Участники команды"
+
+#: blocks/testimonial/block.json
+msgctxt "block title"
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: blocks/image-gallery/block.json
+msgctxt "block title"
+msgid "Image Gallery"
+msgstr "Галерея изображения"
+
+#: blocks/interactive-promo/block.json
+msgctxt "block title"
+msgid "Interactive Promo"
+msgstr "Интерактивная акция"
+
+#: blocks/parallax-slider/block.json
+msgctxt "block title"
+msgid "Parallax Slider"
+msgstr "Эффект паралакса слайдера"
+
+#: blocks/progress-bar/block.json
+msgctxt "block title"
+msgid "Progress Bar"
+msgstr "Индикатор выполнения"
+
+#: blocks/toggle-content/block.json
+msgctxt "block title"
+msgid "Toggle Content"
+msgstr "Переключение содержимого"
+
+#: blocks/typing-text/block.json
+msgctxt "block description"
+msgid "Make your website interactive with typing text animation."
+msgstr "Сделайте свой сайт интерактивным с помощью анимации набора текста."
+
+#: blocks/typing-text/block.json
+msgctxt "block title"
+msgid "Typing Text"
+msgstr "Ввод текста"
+
+#: blocks/dual-button/block.json
+msgctxt "block title"
+msgid "Dual Button"
+msgstr "Двойная кнопка"
+
+#: includes/blocks-default.php:51 dist/index.js:1
+msgid "Button"
+msgstr "Кнопка"
+
+#. Author of the plugin
+msgid "WPDeveloper"
+msgstr "WPDeveloper"
+
+#. Author URI of the plugin
+msgid "https://wpdeveloper.com"
+msgstr "https://wpdeveloper.com"
+
+#: includes/blocks-default.php:46 dist/index.js:1
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#. Plugin Name of the plugin
+#: includes/category.php:7 includes/class-essential-admin.php:37
+#: includes/class-essential-admin.php:38
+msgid "Essential Blocks"
+msgstr "Essential Blocks"
+
+#. Plugin URI of the plugin
+msgid "https://essential-blocks.com"
+msgstr "https://essential-blocks.com"
+
+#: includes/blocks-default.php:56
+msgid "Call To Action"
+msgstr "Призыв к действию"
+
+#: includes/blocks-default.php:61
+msgid "Countdown"
+msgstr "Обратный отсчет"
+
+#: includes/blocks-default.php:71
+msgid "Flipbox"
+msgstr "Флип-Бокс"
+
+#: includes/blocks-default.php:81
+msgid "Image Comparison"
+msgstr "Сравнение изображений"
+
+#: includes/blocks-default.php:91
+msgid "Infobox"
+msgstr "Инфоблок"
+
+#: includes/blocks-default.php:106
+msgid "Notice"
+msgstr "Внимание"
+
+#: includes/blocks-default.php:116
+msgid "Pricing Table"
+msgstr "Таблица цен"
+
+#: includes/blocks-default.php:126 dist/index.js:1
+msgid "Slider"
+msgstr "Слайдер"
+
+#: includes/blocks-default.php:141
+msgid "Team Member"
+msgstr "Член команды"
+
+#: includes/blocks-default.php:146
+msgid "Testimonial"
+msgstr "Отзыв"
+
+#: includes/blocks-default.php:66
+msgid "Dual Button"
+msgstr "Сдвоенная кнопка"
+
+#: includes/blocks-default.php:86
+msgid "Image Gallery"
+msgstr "Галерея изображений"
+
+#: includes/blocks-default.php:111
+msgid "Parallax Slider"
+msgstr "Эффект паралакса слайдера"
+
+#. Description of the plugin
+msgid "The Ultimate Blocks Library for WordPress Gutenberg editor."
+msgstr "Библиотека Ultimate Blocks для редактора Gutenberg WordPress."
+
+#: includes/menu-page-display.php:92
+msgid "<a href=\"%s\" target=\"_blank\">Explore Demos</a>"
+msgstr "<a href=\"%s\" target=\"_blank\">Изучите демоверсии</a>"
+
+#: includes/blocks-default.php:151
+msgid "Toggle Content"
+msgstr "Переключение содержимого"
+
+#: includes/blocks-default.php:156 dist/index.js:1
+msgid "Typing Text"
+msgstr "Ввод текста"
+
+#: includes/blocks-default.php:161
+msgid "Wrapper"
+msgstr "Обертка"
+
+#: includes/blocks-default.php:96 dist/index.js:1
+msgid "Instagram Feed"
+msgstr "Лента Instagram"
+
+#: includes/blocks-default.php:101
+msgid "Interactive Promo"
+msgstr "Интерактивное продвижение"
+
+#: includes/blocks-default.php:121 dist/index.js:1
+msgid "Progress Bar"
+msgstr "Прогресс"
